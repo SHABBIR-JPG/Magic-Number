@@ -2,7 +2,7 @@ package shabbir.com;
 
 public class SetBits {
     static void main(String[] args) {
-        int n=45;
+        int n=4528;
         System.out.println(Integer.toBinaryString(n));
         System.out.println(setBits(n));
     }
